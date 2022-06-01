@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola, soy Raul Pineda! 👋
 
-<!--
-**fernando5498/fernando5498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://raulfetch.herokuapp.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-pineda-1269871bb)
+
+
+## Cosas de mí
+
+🧠 Me gusta Aprender cosas nuevas
+
+🐱‍👓 Puedo trabajar en equipo
+
+🐱‍👤 Me cuesta hacer ejercicio pero lo intento 
+
+😄 Estoy dispuesto a apoyar a los demás
+
+🎯 Aveces me cuesta aprender pero seguire intentando
+
+🗻 Quiero siempre mejorar y busco cumplir mis metas
+
+🎸 Me encanta la musica 🎹
+
