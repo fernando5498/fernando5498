@@ -15,7 +15,7 @@ Soy un desarrollador web y estudio mayormente de manera autodidacta, busco oport
 
 🧠 Me gusta Aprender cosas nuevas. 🐱‍👓 Puedo trabajar en equipo.
 
-🐱‍👤 Me cuesta hacer ejercicio pero lo intento. 🎯 Aveces me cuesta aprender pero seguire intentandolo.
+🐱‍👤 Me cuesta hacer ejercicio pero lo intento. 🎯 Aveces me cuesta aprender pero no me rindo facilmente.
 
 🗻 Quiero siempre mejorar y busco cumplir mis metas. 🎸 Me encanta la musica 🎹.
 
