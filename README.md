@@ -1,6 +1,6 @@
 # Hola, soy Raul Pineda! 👋
 
-<div align="center"><img src="https://github.com/fernando5498/fernando5498/blob/main/img/cover.png"/></div>
+<div align="center"><img src="https://github.com/fernando5498/fernando5498/blob/main/img/banner.png"/></div>
 
                                                                                                  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://raulpineda.netlify.app/) 
