@@ -5,7 +5,7 @@
                                                                                                  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://raulpineda.netlify.app/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-pineda) 
-[![Facebook](https://github.com/fernando5498/fernando5498/blob/main/img/Facebook.svg)](https://www.facebook.com/profile.php?id=100010575304377)
+
 
 ## Cosas de mí
 Soy un desarrollador web y estudio mayormente de manera autodidacta, busco oportunidades donde pueda conocer nuevas personas, mejorar mis habilidades y obtener mayor experiencia laboral
